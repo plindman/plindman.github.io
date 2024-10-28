@@ -19,4 +19,4 @@
 
 - [olla](https://ollama.com/)
 - https://github.com/ollama/ollama
-  
+- https://hub.docker.com/r/ollama/ollama
