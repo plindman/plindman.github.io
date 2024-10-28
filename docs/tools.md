@@ -14,3 +14,9 @@
 - https://www.docker.com/blog/how-to-use-the-postgres-docker-official-image/
 - SQLite
 - DuckDB
+
+# AI
+
+- [olla](https://ollama.com/)
+- https://github.com/ollama/ollama
+  
