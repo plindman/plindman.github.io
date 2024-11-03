@@ -27,7 +27,7 @@ I'm always keen to discuss topics like **AI advancements**, **data science**.
 
 Thanks for visiting, and feel free to connect.
 
-## Acknowledgements and inspiration for this README
+## 🙏 Acknowledgements and inspiration for this README
 
 - [Awesome Github Profiles](https://github.com/recodehive/awesome-github-profiles)
 - [Awesome Github Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
