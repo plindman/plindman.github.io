@@ -1,7 +1,3 @@
-# Pontus Lindman
-
-![Pontus Lindman Banner](https://your-image-link-here) <!-- Optional header image link -->
-
 ### Tech Leader | Hobby Scientist  
 
 Here, I blend my professional experiences in vuilding software at scale with my hobbyist pursuits in programming and exploring the frontiers of technology.
