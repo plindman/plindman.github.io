@@ -1,6 +1,6 @@
-### Tech Leader | Hobby Scientist  
+Welcome! My personal space on the web! I'm a tech enthusiast with a deep passion for exploring and experimenting with various technologies.
 
-Here, I blend my professional experiences in vuilding software at scale with my hobbyist pursuits in programming and exploring the frontiers of technology.
+I thrive on diving into new tech realms. My curiosity drives me to continuously learn and apply innovative solutions to real-world challenges.
 
 ## 🌱 On the Hobby Side
 
