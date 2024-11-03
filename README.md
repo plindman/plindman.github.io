@@ -25,7 +25,7 @@ I'm always keen to discuss topics like **AI advancements**, **data science**.
 
 ---
 
-Thanks for visiting, and feel free to connect or contribute to any of the projects you find interesting here!
+Thanks for visiting, and feel free to connect.
 
 ## Acknowledgements and inspiration for this README
 
